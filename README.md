@@ -1,2 +1,4 @@
 # JPA con Envers
-## Maria Victoria Torres Burgos - Diseño de Sistemas 2024
+- Victoria Torres Burgos
+- Diseño de Sistemas 2024
+- Universidad de Mendoza
